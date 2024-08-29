@@ -42,6 +42,10 @@
   font-weight: bold;
 }
 
+.nav__link:hover {
+  color: #057bf2;
+}
+
 .header__content {
   display: flex;
   justify-content: space-between;
