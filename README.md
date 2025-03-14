@@ -2,6 +2,8 @@
 
 A página da biblioteca Triple Peaks, é uma landing page com o menu de navegação e a descrição da biblioteca no cabeçalho, dividido em seções com indicações de livros da equipe para os leitores, eventos no local, como se tornar membro da biblioteca e o footer com informações de horário de funcionamento e redes sociais.
 
+<p align="center"><img src="./images/screenshot-page.png" alt="tela de captura do projeto biblioteca triple peaks" width="25%"></p>
+
 **Para ver o projeto em execução clique <a href="https://vinimello90.github.io/web_project_library/" target="_blank">aqui</a>.**
 
 ## Recursos do projeto
