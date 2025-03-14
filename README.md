@@ -19,3 +19,7 @@ O `HTML semântico` foi aplicado para tornar o código mais compreensível.
 ### Metodologia BEM
 
 A `metodologia BEM` facilita a manutenção e a compreensão do código.
+
+### Flexbox
+
+O `Flexbox` foi utilizado para organizar o layout.
