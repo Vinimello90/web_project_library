@@ -25,7 +25,7 @@ Adotei a **metodologia BEM (Bloco, Elemento, Modificador)** para organizar as cl
 
 ### Flexbox
 
-O **Flexbox** foi utilizado para garantir uma distribuição eficiente e responsiva dos elementos.
+O `flexbox` foi utilizado para garantir uma distribuição eficiente e responsiva dos elementos.
 
 ### Hover
 
@@ -33,7 +33,7 @@ A pseudo-classe `:hover` foi aplicada aos links e outros elementos interativos, 
 
 ## Header
 
-O **header** contém o menu de navegação e uma breve descrição sobre a biblioteca. Utilizei **flexbox** para organizar os elementos de maneira responsiva. A pseudo-classe `:hover` foi aplicada aos links para alterar sua cor ao passar o cursor sobre eles.
+O **header** contém o menu de navegação e uma breve descrição sobre a biblioteca. Utilizei `flexbox` para organizar os elementos de maneira responsiva. A pseudo-classe `:hover` foi aplicada aos links para alterar sua cor ao passar o cursor sobre eles.
 
 <img src="./images/screenshot_header.png" alt="imagem do header">
 
@@ -41,19 +41,19 @@ O **header** contém o menu de navegação e uma breve descrição sobre a bibli
 
 ### Seção Staff
 
-A **seção de Staff** apresenta os cards com indicações de livros feitas pela equipe. Utilizei **flexbox** para distribuir os cards de forma organizada e responsiva.
+A **seção de Staff** apresenta os cards com indicações de livros feitas pela equipe. Utilizei `flexbox` para distribuir os cards de forma organizada e responsiva.
 
 <img src="./images/screenshot_staff.png" alt="imagem da seção de Staff">
 
 ### Seção de Eventos
 
-Na **seção de Eventos**, são exibidas informações sobre os eventos no local. Para organizar a disposição dos elementos, utilizei **flexbox** e a propriedade **position** para ajustar a posição das imagens.
+Na **seção de Eventos**, são exibidas informações sobre os eventos no local. Para organizar a disposição dos elementos, utilizei `flexbox` e a propriedade `position` para ajustar a posição das imagens.
 
 <img src="./images/screenshot_events.png" alt="imagem da seção de Eventos">
 
 ### Seção de Membros
 
-A **seção de Membros** apresenta o passo a passo para se tornar um membro da biblioteca. Utilizei **flexbox** para organizar os elementos de forma clara e acessível.
+A **seção de Membros** apresenta o passo a passo para se tornar um membro da biblioteca. Utilizei `flexbox` para organizar os elementos de forma clara e acessível.
 
 <img src="./images/screenshot_membership.png" alt="imagem da seção de membros">
 
